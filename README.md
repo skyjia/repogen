@@ -1,14 +1,14 @@
-github-repo-gen
+repogen
 ===============
 
 _Version 0.1_
 
-__github-repo-gen__ is a toy to generate a Markdown index document of GitHub user's starred repositories. 
+__repo-gen__ is a toy to generate a Markdown index document of GitHub user's starred repositories. 
 
 # Install
 ```
 $ go get -u github.com/google/go-github/github
-$ go get -u github.com/skyjia/github-repo-gen
+$ go get -u github.com/skyjia/repogen
 
 ```
 
