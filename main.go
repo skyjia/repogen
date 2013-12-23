@@ -92,6 +92,8 @@ func printDocument() {
 
 func printHeader() {
 	fmt.Println("# Starred Repositories")
+	fmt.Println("====================")
+	fmt.Println("__[%s](https://github.com/%s)__ on GitHub.", *username, *username)
 	fmt.Println()
 }
 
@@ -101,11 +103,13 @@ func printLanguageList() {
 
 	for _, lang := range languageList {
 		fmt.Printf("- [%s](#%s)\r\n", lang, lang)
-		fmt.Println()
 	}
 }
 
 func printRepositoriesByLanguage() {
+	fmt.Println("# Index")
+	fmt.Println()
+
 	for _, lang := range languageList {
 		list, _ := langRepoMap[lang]
 		fmt.Printf("## [%s](id:%s) (%d)\r\n", lang, lang, len(list))
@@ -138,5 +142,6 @@ func printRepositoryList(list []github.Repository) {
 func printFooter() {
 	fmt.Println("---")
 	fmt.Println("Generated at:", time.Now().UTC().Format(layout))
+	fmt.Println()
 	fmt.Println("_Get generator on [GitHub](https://github.com/skyjia/github-repo-gen)_")
 }
