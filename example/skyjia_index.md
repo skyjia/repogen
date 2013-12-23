@@ -9,7 +9,7 @@ __[skyjia](https://github.com/skyjia)__ on GitHub.
 
 # Index
 
-## [Unknown](id:%s(MISSING))
+## [Unknown](id:unknown)
 
 13 repositories
 ### wonderfo/wonderfogo
@@ -126,7 +126,7 @@ A collection of useful .gitignore templates
 
 - Pushed at: _Dec 23, 2013 11:40AM (UTC)_
 
-## [Go](id:%s(MISSING))
+## [Go](id:go)
 
 88 repositories
 ### skyjia/repogen
@@ -135,7 +135,7 @@ A toy to generate a Markdown index document for my starred GitHub repositories.
 
 - URL: <https://github.com/skyjia/repogen>
 
-- Pushed at: _Dec 23, 2013 9:33AM (UTC)_
+- Pushed at: _Dec 23, 2013 12:10PM (UTC)_
 
 ### google/go-github
 
@@ -893,7 +893,7 @@ A high level web-framework for Go
 
 - Pushed at: _May 2, 2013 9:54AM (UTC)_
 
-## [Objective-C](id:%s(MISSING))
+## [Objective-C](id:objective-c)
 
 24 repositories
 ### bendytree/Objective-C-RegEx-Categories
@@ -1098,7 +1098,7 @@ A native OS X cocoa application for testing HTTP endpoints
 
 - Pushed at: _Dec 7, 2013 3:55PM (UTC)_
 
-## [JavaScript](id:%s(MISSING))
+## [JavaScript](id:javascript)
 
 34 repositories
 ### ChrisZieba/LogicPull
@@ -1433,7 +1433,7 @@ JavaScript's utility _ belt
 
 - Pushed at: _Dec 22, 2013 3:00AM (UTC)_
 
-## [CSS](id:%s(MISSING))
+## [CSS](id:css)
 
 7 repositories
 ### segmentio/myth
@@ -1506,7 +1506,7 @@ Better HTML Starter Templates for Bootstrap 3
 
 - Pushed at: _Nov 24, 2013 1:30AM (UTC)_
 
-## [Python](id:%s(MISSING))
+## [Python](id:python)
 
 6 repositories
 ### mailgun/shipper
@@ -1561,7 +1561,7 @@ software for hosting git repositories
 
 - Pushed at: _Mar 22, 2012 1:30AM (UTC)_
 
-## [Shell](id:%s(MISSING))
+## [Shell](id:shell)
 
 7 repositories
 ### zimbatm/direnv
@@ -1626,7 +1626,7 @@ Docker powered mini-Heroku in around 100 lines of Bash
 
 - Pushed at: _Dec 22, 2013 10:09PM (UTC)_
 
-## [PHP](id:%s(MISSING))
+## [PHP](id:php)
 
 2 repositories
 ### zurb/ink
@@ -1649,7 +1649,7 @@ Quickly create responsive HTML emails that work on any device & client. Even Out
 
 - Pushed at: _Dec 3, 2013 3:47PM (UTC)_
 
-## [CoffeeScript](id:%s(MISSING))
+## [CoffeeScript](id:coffeescript)
 
 3 repositories
 ### dmotz/oriDomi
@@ -1680,7 +1680,7 @@ Display a unique seal in the developer console of your page. #hubspot-open-sourc
 
 - Pushed at: _Dec 19, 2013 3:29PM (UTC)_
 
-## [C](id:%s(MISSING))
+## [C](id:c)
 
 4 repositories
 ### alandipert/fswatch
@@ -1719,7 +1719,7 @@ Redis is an in-memory database that persists on disk. The data model is key-valu
 
 - Pushed at: _Dec 23, 2013 11:50AM (UTC)_
 
-## [Ruby](id:%s(MISSING))
+## [Ruby](id:ruby)
 
 11 repositories
 ### diaspora/diaspora
@@ -1828,7 +1828,7 @@ Pagination library for Rails 3, Sinatra, Merb, DataMapper, and more
 
 - Pushed at: _Sep 23, 2013 6:04PM (UTC)_
 
-## [C++](id:%s(MISSING))
+## [C++](id:c++)
 
 3 repositories
 ### wangkuiyi/google-libs
@@ -1855,7 +1855,7 @@ lmctfy is the open source version of Google’s container stack, which provides 
 
 - Pushed at: _Nov 26, 2013 4:43PM (UTC)_
 
-## [VimL](id:%s(MISSING))
+## [VimL](id:viml)
 
 1 repositories
 ### terryma/vim-multiple-cursors
@@ -1866,7 +1866,7 @@ True Sublime Text style multiple selections for Vim
 
 - Pushed at: _Aug 19, 2013 3:49PM (UTC)_
 
-## [Scala](id:%s(MISSING))
+## [Scala](id:scala)
 
 1 repositories
 ### PredictionIO/PredictionIO
@@ -1880,6 +1880,6 @@ PredictionIO, a machine learning server for software developers and data enginee
 - Pushed at: _Dec 17, 2013 3:26PM (UTC)_
 
 ---
-Generated at: Dec 23, 2013 12:10PM (UTC)
+Generated at: Dec 23, 2013 12:12PM (UTC)
 
 _Get generator on [GitHub](https://github.com/skyjia/github-repo-gen)_
