@@ -1,14 +1,141 @@
-# Starred Repositories
+Starred Repositories
 ===============
 
 __[skyjia](https://github.com/skyjia)__ on GitHub.
 
 ## Languages
 
-- [Go](#Go)- [Objective-C](#Objective-C)- [JavaScript](#JavaScript)- [Unknown](#Unknown)- [CSS](#CSS)- [Python](#Python)- [Shell](#Shell)- [PHP](#PHP)- [CoffeeScript](#CoffeeScript)- [C](#C)- [Ruby](#Ruby)- [C++](#C++)- [VimL](#VimL)- [Scala](#Scala)
+- [Unknown](#unknown)- [Go](#go)- [Objective-C](#objective-c)- [JavaScript](#javascript)- [CSS](#css)- [Python](#python)- [Shell](#shell)- [PHP](#php)- [CoffeeScript](#coffeescript)- [C](#c)- [Ruby](#ruby)- [C++](#c++)- [VimL](#viml)- [Scala](#scala)
+
 # Index
 
-## [Go](id:Go) (87)
+## [Unknown](id:%s(MISSING))
+
+13 repositories
+### wonderfo/wonderfogo
+
+最近对Go语言很感兴趣，所以整理相关资料，呵呵
+
+- URL: <https://github.com/wonderfo/wonderfogo>
+
+- Pushed at: _Mar 6, 2012 11:47AM (UTC)_
+
+### facebook/origami
+
+A Quartz Composer framework for the design community
+
+- URL: <https://github.com/facebook/origami>
+
+- Pushed at: _Dec 23, 2013 8:35AM (UTC)_
+
+### neiesc/ListOfMinimalistFrameworks
+
+A list of minimalist frameworks(simple and lightweight).
+
+- URL: <https://github.com/neiesc/ListOfMinimalistFrameworks>
+
+- Pushed at: _Dec 22, 2013 3:06PM (UTC)_
+
+### tobiasahlin/SpinKit
+
+A collection of loading indicators animated with CSS
+
+- URL: <https://github.com/tobiasahlin/SpinKit>
+
+- Site: <http://tobiasahlin.com/spinkit/>
+
+- Pushed at: _Dec 20, 2013 11:40PM (UTC)_
+
+### VividCortex/multitick
+
+A multiplexor for aligned time.Time tickers
+
+- URL: <https://github.com/VividCortex/multitick>
+
+- Pushed at: _Dec 10, 2013 10:32PM (UTC)_
+
+### sindresorhus/quick-look-plugins
+
+List of useful Quick Look plugins for developers
+
+- URL: <https://github.com/sindresorhus/quick-look-plugins>
+
+- Site: <http://sindresorhus.com>
+
+- Pushed at: _Dec 20, 2013 1:10AM (UTC)_
+
+### philwareham/responsive-email
+
+A table-based (but responsive) email template. Has MailChimp merge tags in place.
+
+- URL: <https://github.com/philwareham/responsive-email>
+
+- Pushed at: _Nov 14, 2013 11:33AM (UTC)_
+
+### freebitcoin/freebitcoin
+
+免费获取比特币
+
+- URL: <https://github.com/freebitcoin/freebitcoin>
+
+- Pushed at: _Dec 11, 2013 12:29AM (UTC)_
+
+### cheeaun/life
+
+Life - a timeline of important events in my life
+
+- URL: <https://github.com/cheeaun/life>
+
+- Site: <http://cheeaun.github.io/life/>
+
+- Pushed at: _Dec 9, 2013 1:19PM (UTC)_
+
+### justjavac/free-programming-books-zh_CN
+
+免费的计算机编程类中文书籍，欢迎投稿
+
+- URL: <https://github.com/justjavac/free-programming-books-zh_CN>
+
+- Pushed at: _Dec 17, 2013 1:15AM (UTC)_
+
+### github/gitignore
+
+A collection of useful .gitignore templates
+
+- URL: <https://github.com/github/gitignore>
+
+- Pushed at: _Dec 16, 2013 1:18PM (UTC)_
+
+### JacksonTian/fks
+
+前端技能汇总 Frontend Knowledge Structure
+
+- URL: <https://github.com/JacksonTian/fks>
+
+- Site: <http://html5ify.com/fks/>
+
+- Pushed at: _Dec 9, 2013 12:56PM (UTC)_
+
+### vhf/free-programming-books
+
+
+
+- URL: <https://github.com/vhf/free-programming-books>
+
+- Site: <http://resrc.io/list/10/list-of-free-programming-books/>
+
+- Pushed at: _Dec 23, 2013 11:40AM (UTC)_
+
+## [Go](id:%s(MISSING))
+
+88 repositories
+### skyjia/repogen
+
+A toy to generate a Markdown index document for my starred GitHub repositories.
+
+- URL: <https://github.com/skyjia/repogen>
+
+- Pushed at: _Dec 23, 2013 9:33AM (UTC)_
 
 ### google/go-github
 
@@ -198,7 +325,7 @@ An autocompletion daemon for the Go programming language
 
 - URL: <https://github.com/nsf/gocode>
 
-- Pushed at: _Dec 8, 2013 5:52AM (UTC)_
+- Pushed at: _Dec 23, 2013 11:14AM (UTC)_
 
 ### astaxie/gopkg
 
@@ -256,7 +383,7 @@ Now is a time toolkit for golang
 
 - URL: <https://github.com/jinzhu/now>
 
-- Pushed at: _Dec 20, 2013 12:46PM (UTC)_
+- Pushed at: _Dec 23, 2013 8:22AM (UTC)_
 
 ### rcrowley/goagain
 
@@ -432,7 +559,7 @@ HTTP traffic replay in real-time. Replay traffic from production to staging and 
 
 - Site: <http://leonsbox.com/blog/2013/06/04/improving-testing-by-using-real-traffic-from-production/>
 
-- Pushed at: _Dec 18, 2013 2:11PM (UTC)_
+- Pushed at: _Dec 23, 2013 10:29AM (UTC)_
 
 ### skydb/sky
 
@@ -554,7 +681,7 @@ Feed Reader for App Engine (Google Reader clone)
 
 - URL: <https://github.com/melllvar/Gofr>
 
-- Pushed at: _Dec 22, 2013 9:17AM (UTC)_
+- Pushed at: _Dec 23, 2013 7:40AM (UTC)_
 
 ### coreos/etcd
 
@@ -766,8 +893,9 @@ A high level web-framework for Go
 
 - Pushed at: _May 2, 2013 9:54AM (UTC)_
 
-## [Objective-C](id:Objective-C) (24)
+## [Objective-C](id:%s(MISSING))
 
+24 repositories
 ### bendytree/Objective-C-RegEx-Categories
 
 Categories on NSRegularExpression that make regular expressions more concise in Objective-C
@@ -970,8 +1098,9 @@ A native OS X cocoa application for testing HTTP endpoints
 
 - Pushed at: _Dec 7, 2013 3:55PM (UTC)_
 
-## [JavaScript](id:JavaScript) (34)
+## [JavaScript](id:%s(MISSING))
 
+34 repositories
 ### ChrisZieba/LogicPull
 
 The smart and simple way to automate document assembly
@@ -988,7 +1117,7 @@ Just a blogging platform
 
 - Site: <http://ghost.org>
 
-- Pushed at: _Dec 22, 2013 3:47PM (UTC)_
+- Pushed at: _Dec 23, 2013 10:40AM (UTC)_
 
 ### koajs/koa
 
@@ -1212,7 +1341,7 @@ An HTML5 remake of the original Super Mario Brothers - expanded for wide screens
 
 - URL: <https://github.com/Diogenesthecynic/FullScreenMario>
 
-- Pushed at: _Dec 22, 2013 2:46PM (UTC)_
+- Pushed at: _Dec 23, 2013 10:00AM (UTC)_
 
 ### madebymany/sir-trevor-js
 
@@ -1272,7 +1401,7 @@ Sleek, intuitive, and powerful front-end framework for faster and easier web dev
 
 - Site: <http://getbootstrap.com>
 
-- Pushed at: _Dec 23, 2013 5:47AM (UTC)_
+- Pushed at: _Dec 23, 2013 7:15AM (UTC)_
 
 ### jashkenas/backbone
 
@@ -1304,116 +1433,9 @@ JavaScript's utility _ belt
 
 - Pushed at: _Dec 22, 2013 3:00AM (UTC)_
 
-## [Unknown](id:Unknown) (12)
+## [CSS](id:%s(MISSING))
 
-### facebook/origami
-
-A Quartz Composer framework for the design community
-
-- URL: <https://github.com/facebook/origami>
-
-- Pushed at: _Dec 22, 2013 9:51AM (UTC)_
-
-### neiesc/ListOfMinimalistFrameworks
-
-A list of minimalist frameworks(simple and lightweight).
-
-- URL: <https://github.com/neiesc/ListOfMinimalistFrameworks>
-
-- Pushed at: _Dec 22, 2013 3:06PM (UTC)_
-
-### tobiasahlin/SpinKit
-
-A collection of loading indicators animated with CSS
-
-- URL: <https://github.com/tobiasahlin/SpinKit>
-
-- Site: <http://tobiasahlin.com/spinkit/>
-
-- Pushed at: _Dec 20, 2013 11:40PM (UTC)_
-
-### VividCortex/multitick
-
-A multiplexor for aligned time.Time tickers
-
-- URL: <https://github.com/VividCortex/multitick>
-
-- Pushed at: _Dec 10, 2013 10:32PM (UTC)_
-
-### sindresorhus/quick-look-plugins
-
-List of useful Quick Look plugins for developers
-
-- URL: <https://github.com/sindresorhus/quick-look-plugins>
-
-- Site: <http://sindresorhus.com>
-
-- Pushed at: _Dec 20, 2013 1:10AM (UTC)_
-
-### philwareham/responsive-email
-
-A table-based (but responsive) email template. Has MailChimp merge tags in place.
-
-- URL: <https://github.com/philwareham/responsive-email>
-
-- Pushed at: _Nov 14, 2013 11:33AM (UTC)_
-
-### freebitcoin/freebitcoin
-
-免费获取比特币
-
-- URL: <https://github.com/freebitcoin/freebitcoin>
-
-- Pushed at: _Dec 11, 2013 12:29AM (UTC)_
-
-### cheeaun/life
-
-Life - a timeline of important events in my life
-
-- URL: <https://github.com/cheeaun/life>
-
-- Site: <http://cheeaun.github.io/life/>
-
-- Pushed at: _Dec 9, 2013 1:19PM (UTC)_
-
-### justjavac/free-programming-books-zh_CN
-
-免费的计算机编程类中文书籍，欢迎投稿
-
-- URL: <https://github.com/justjavac/free-programming-books-zh_CN>
-
-- Pushed at: _Dec 17, 2013 1:15AM (UTC)_
-
-### github/gitignore
-
-A collection of useful .gitignore templates
-
-- URL: <https://github.com/github/gitignore>
-
-- Pushed at: _Dec 16, 2013 1:18PM (UTC)_
-
-### JacksonTian/fks
-
-前端技能汇总 Frontend Knowledge Structure
-
-- URL: <https://github.com/JacksonTian/fks>
-
-- Site: <http://html5ify.com/fks/>
-
-- Pushed at: _Dec 9, 2013 12:56PM (UTC)_
-
-### vhf/free-programming-books
-
-
-
-- URL: <https://github.com/vhf/free-programming-books>
-
-- Site: <http://resrc.io/list/10/list-of-free-programming-books/>
-
-- Pushed at: _Dec 22, 2013 11:22AM (UTC)_
-
-## [CSS](id:CSS) (7)
-
+7 repositories
 ### segmentio/myth
 
 A CSS preprocessor that acts like a polyfill for future versions of the spec.
@@ -1422,7 +1444,7 @@ A CSS preprocessor that acts like a polyfill for future versions of the spec.
 
 - Site: <myth.io>
 
-- Pushed at: _Dec 19, 2013 9:41AM (UTC)_
+- Pushed at: _Dec 23, 2013 8:09AM (UTC)_
 
 ### briangraves/ResponsiveEmailPatterns
 
@@ -1484,8 +1506,9 @@ Better HTML Starter Templates for Bootstrap 3
 
 - Pushed at: _Nov 24, 2013 1:30AM (UTC)_
 
-## [Python](id:Python) (6)
+## [Python](id:%s(MISSING))
 
+6 repositories
 ### mailgun/shipper
 
 Fabric for docker containers
@@ -1538,8 +1561,9 @@ software for hosting git repositories
 
 - Pushed at: _Mar 22, 2012 1:30AM (UTC)_
 
-## [Shell](id:Shell) (7)
+## [Shell](id:%s(MISSING))
 
+7 repositories
 ### zimbatm/direnv
 
 Unclutter your .profile
@@ -1602,8 +1626,9 @@ Docker powered mini-Heroku in around 100 lines of Bash
 
 - Pushed at: _Dec 22, 2013 10:09PM (UTC)_
 
-## [PHP](id:PHP) (2)
+## [PHP](id:%s(MISSING))
 
+2 repositories
 ### zurb/ink
 
 Quickly create responsive HTML emails that work on any device & client. Even Outlook.
@@ -1624,8 +1649,9 @@ Quickly create responsive HTML emails that work on any device & client. Even Out
 
 - Pushed at: _Dec 3, 2013 3:47PM (UTC)_
 
-## [CoffeeScript](id:CoffeeScript) (3)
+## [CoffeeScript](id:%s(MISSING))
 
+3 repositories
 ### dmotz/oriDomi
 
 Fold up DOM elements like paper
@@ -1654,8 +1680,9 @@ Display a unique seal in the developer console of your page. #hubspot-open-sourc
 
 - Pushed at: _Dec 19, 2013 3:29PM (UTC)_
 
-## [C](id:C) (4)
+## [C](id:%s(MISSING))
 
+4 repositories
 ### alandipert/fswatch
 
 Monitor a directory for changes and run a shell command, using OS X's FSEvents API
@@ -1690,10 +1717,11 @@ Redis is an in-memory database that persists on disk. The data model is key-valu
 
 - Site: <http://redis.io>
 
-- Pushed at: _Dec 22, 2013 10:54AM (UTC)_
+- Pushed at: _Dec 23, 2013 11:50AM (UTC)_
 
-## [Ruby](id:Ruby) (11)
+## [Ruby](id:%s(MISSING))
 
+11 repositories
 ### diaspora/diaspora
 
 Distributed and contextual social networking
@@ -1770,7 +1798,7 @@ A platform for community discussion. Free, open, simple.
 
 - Site: <http://www.discourse.org>
 
-- Pushed at: _Dec 23, 2013 12:12AM (UTC)_
+- Pushed at: _Dec 23, 2013 6:53AM (UTC)_
 
 ### rediscookbook/rediscookbook
 
@@ -1800,8 +1828,9 @@ Pagination library for Rails 3, Sinatra, Merb, DataMapper, and more
 
 - Pushed at: _Sep 23, 2013 6:04PM (UTC)_
 
-## [C++](id:C++) (3)
+## [C++](id:%s(MISSING))
 
+3 repositories
 ### wangkuiyi/google-libs
 
 Blade BUILD files that refers to Google libraries installed on your MacOSX computers as //thirdparty
@@ -1826,8 +1855,9 @@ lmctfy is the open source version of Google’s container stack, which provides 
 
 - Pushed at: _Nov 26, 2013 4:43PM (UTC)_
 
-## [VimL](id:VimL) (1)
+## [VimL](id:%s(MISSING))
 
+1 repositories
 ### terryma/vim-multiple-cursors
 
 True Sublime Text style multiple selections for Vim
@@ -1836,8 +1866,9 @@ True Sublime Text style multiple selections for Vim
 
 - Pushed at: _Aug 19, 2013 3:49PM (UTC)_
 
-## [Scala](id:Scala) (1)
+## [Scala](id:%s(MISSING))
 
+1 repositories
 ### PredictionIO/PredictionIO
 
 PredictionIO, a machine learning server for software developers and data engineers.
@@ -1849,6 +1880,6 @@ PredictionIO, a machine learning server for software developers and data enginee
 - Pushed at: _Dec 17, 2013 3:26PM (UTC)_
 
 ---
-Generated at: Dec 23, 2013 5:55AM (UTC)
+Generated at: Dec 23, 2013 12:10PM (UTC)
 
 _Get generator on [GitHub](https://github.com/skyjia/github-repo-gen)_
