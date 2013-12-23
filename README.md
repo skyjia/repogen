@@ -26,3 +26,5 @@ Output to a Markdown document:
 ```
 $ repogen -u USERNAME > /path/to/your/document.md
 ```
+
+[Example](example/skyjia_index.md)
