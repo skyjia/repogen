@@ -3,7 +3,7 @@ repogen
 
 _Version 0.1_
 
-__repo-gen__ is a toy to generate a Markdown index document of GitHub user's starred repositories. 
+__repogen__ is a toy to generate a Markdown index document of GitHub user's starred repositories. 
 
 # Install
 ```
@@ -15,7 +15,7 @@ $ go get -u github.com/skyjia/repogen
 Exuecte it:
 
 ```
-$ github-repo-gen -u USERNAME
+$ repogen -u USERNAME
 ```
 
 Which takes the following flags:
@@ -24,5 +24,5 @@ Which takes the following flags:
 
 Output to a Markdown document:
 ```
-$ github-repo-gen -u USERNAME > /path/to/your/document.md
+$ repogen -u USERNAME > /path/to/your/document.md
 ```
