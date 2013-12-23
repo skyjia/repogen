@@ -135,7 +135,7 @@ A toy to generate a Markdown index document for my starred GitHub repositories.
 
 - URL: <https://github.com/skyjia/repogen>
 
-- Pushed at: _Dec 23, 2013 12:10PM (UTC)_
+- Pushed at: _Dec 23, 2013 12:13PM (UTC)_
 
 ### google/go-github
 
@@ -1880,6 +1880,6 @@ PredictionIO, a machine learning server for software developers and data enginee
 - Pushed at: _Dec 17, 2013 3:26PM (UTC)_
 
 ---
-Generated at: Dec 23, 2013 12:12PM (UTC)
+Generated at: Dec 23, 2013 12:14PM (UTC)
 
 _Get generator on [GitHub](https://github.com/skyjia/github-repo-gen)_
