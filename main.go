@@ -11,8 +11,11 @@ import (
 	"fmt"
 	"github.com/google/go-github/github"
 	"os"
+	"strings"
 	"time"
 )
+
+const GENERATOR_URL string = "https://github.com/skyjia/repogen"
 
 var (
 	username = flag.String("u", "", "GitHub username. (Required)")
@@ -91,7 +94,7 @@ func printDocument() {
 }
 
 func printHeader() {
-	fmt.Println("# Starred Repositories")
+	fmt.Println("Starred Repositories")
 	fmt.Println("===============")
 	fmt.Println()
 	fmt.Printf("__[%s](https://github.com/%s)__ on GitHub.\r\n", *username, *username)
@@ -103,10 +106,10 @@ func printLanguageList() {
 	fmt.Println()
 
 	for _, lang := range languageList {
-		fmt.Printf("- [%s](#%s)\r", lang, lang)
+		fmt.Printf("- [%s](#%s)\r", lang, strings.ToLower(lang))
 	}
 
-	fmt.Println()
+	fmt.Println("\n")
 }
 
 func printRepositoriesByLanguage() {
@@ -115,7 +118,10 @@ func printRepositoriesByLanguage() {
 
 	for _, lang := range languageList {
 		list, _ := langRepoMap[lang]
-		fmt.Printf("## [%s](id:%s) (%d)\r\n", lang, lang, len(list))
+		fmt.Printf("## [%s](id:%s)\r\n", lang, strings.ToLower(lang))
+		fmt.Println()
+
+		fmt.Printf("%d repositories", len(list))
 		fmt.Println()
 
 		printRepositoryList(list)
@@ -146,5 +152,5 @@ func printFooter() {
 	fmt.Println("---")
 	fmt.Println("Generated at:", time.Now().UTC().Format(layout))
 	fmt.Println()
-	fmt.Println("_Get generator on [GitHub](https://github.com/skyjia/github-repo-gen)_")
+	fmt.Printf("_Get generator on [GitHub](%s)_\r\n", GENERATOR_URL)
 }
