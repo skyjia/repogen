@@ -92,8 +92,9 @@ func printDocument() {
 
 func printHeader() {
 	fmt.Println("# Starred Repositories")
-	fmt.Println("====================")
-	fmt.Println("__[%s](https://github.com/%s)__ on GitHub.", *username, *username)
+	fmt.Println("===============")
+	fmt.Println()
+	fmt.Printf("__[%s](https://github.com/%s)__ on GitHub.\r\n", *username, *username)
 	fmt.Println()
 }
 
@@ -102,8 +103,10 @@ func printLanguageList() {
 	fmt.Println()
 
 	for _, lang := range languageList {
-		fmt.Printf("- [%s](#%s)\r\n", lang, lang)
+		fmt.Printf("- [%s](#%s)\r", lang, lang)
 	}
+
+	fmt.Println()
 }
 
 func printRepositoriesByLanguage() {
