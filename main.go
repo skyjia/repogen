@@ -1,3 +1,9 @@
+/*
+ Author: Sky Jia
+ GitHub: https://github.com/skyjia
+ Web: http://www.skyjia.com
+*/
+
 package main
 
 import (
