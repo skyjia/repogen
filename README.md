@@ -10,7 +10,6 @@ __repogen__ is a toy to generate a Markdown index document of GitHub user's star
 Go 1.1+ is required. [Golang Getting Started](http://golang.org/doc/install)
 
 ```
-$ go get -u github.com/google/go-github/github
 $ go get -u github.com/skyjia/repogen
 
 ```
