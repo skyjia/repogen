@@ -134,8 +134,10 @@ func printRepositoryList(list []github.Repository) {
 	for _, r := range list {
 		fmt.Printf("### %s/%s\r\n", *r.Owner.Login, *r.Name)
 		fmt.Println()
-		fmt.Printf("%s\r\n", *r.Description)
-		fmt.Println()
+		if r.Description != nil && *r.Description != "" {
+			fmt.Printf("%s\r\n", *r.Description)
+			fmt.Println()
+		}
 		fmt.Printf("- URL: <%s>\r\n", *r.HTMLURL)
 		fmt.Println()
 		if r.Homepage != nil && *r.Homepage != "" {
